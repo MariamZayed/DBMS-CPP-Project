@@ -1,9 +1,11 @@
 # depslib dependency file v1.0
-1672182681 source:c:\users\mylap\desktop\dbms_final\main.cpp
+1672277124 source:c:\users\mylap\desktop\dbms_final\main.cpp
 	<iostream>
 	<string>
-	<iostream>
 	<windows.h>
 	<tchar.h>
 	<stdio.h>
+	<vector>
+	<sstream>
+	<bits/stdc++.h>
 
